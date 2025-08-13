@@ -1,0 +1,18 @@
+body {
+    margin: 0;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+    background-color: #1B244A;
+    width: 100%;
+    max-width: 1200px;
+    margin: auto;
+
+
+}
+
+.h2 {
+
+}
